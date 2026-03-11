@@ -1,0 +1,159 @@
+You are a senior full-stack developer and UI/UX designer.
+
+I currently have an  application being built in Replit .
+I now need to build a  separate marketing website  that showcases the brand, explains the product, and introduces the company.
+
+IMPORTANT:
+This website is  NOT the application itself .
+It should  not contain application functionality , authentication, or business logic.
+
+Its purpose is  marketing and brand communication only .
+
+However, the architecture should be  clean and scalable  so that  future capabilities (database, backend integrations, login, dashboards, etc.) can be added later if needed  without needing to rebuild the entire project.
+
+---
+
+### Product Information Source
+
+I will provide a  Product Requirements Document (PRD) .
+
+The PRD contains:
+
+* Brand information
+* Color palettes
+* Design guidance
+* Product description
+* Key features
+* Messaging
+* What we want to showcase about the product and company
+
+Use the PRD as the  primary source of truth  for:
+
+* design direction
+* brand colors
+* messaging
+* layout inspiration
+* sections to highlight
+
+Do not invent product features that are not in the PRD.
+
+---
+
+### Tech Stack Requirements
+
+Use the  same frontend stack as my existing Replit application  to maintain consistency:
+
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
+
+Do NOT add:
+
+* Express servers
+* database connections
+* authentication
+* backend APIs
+
+The website should be built as a  clean, scalable React frontend project .
+
+Structure the project so it could  easily support backend integration later  if the marketing site evolves into a full product portal.
+
+---
+
+### Website Goals
+
+The website should:
+
+* Clearly explain what the product does
+* Present the brand professionally
+* Communicate the product value proposition
+* Build trust with potential users or customers
+* Provide clear calls to action (contact, waitlist, learn more)
+
+---
+
+### Design Requirements
+
+Create a  modern SaaS-style marketing website  with:
+
+* minimal and clean design
+* strong typography
+* clear visual hierarchy
+* responsive layout (mobile-first)
+* smooth scrolling
+* subtle animations
+* professional spacing and layout
+
+Follow the  brand palette defined in the PRD .
+
+Use  Tailwind CSS best practices .
+
+---
+
+### Pages to Create
+
+Home Page
+
+* Hero section with headline and value proposition
+* Product overview
+* Key benefits or features
+* "How it works" section
+* Testimonials (placeholder)
+* Call-to-action section
+* Footer with navigation
+
+About Page
+
+* Mission
+* Vision
+* Story of the company or product
+* Team section (placeholder)
+
+Features Page
+
+* Detailed breakdown of product features
+* Visual feature cards or sections
+
+Contact Page
+
+* Contact form (frontend only)
+* Email placeholder
+* Social links
+
+---
+
+### Optional Sections (if supported by the PRD)
+
+* FAQ
+* Product roadmap preview
+* Waitlist signup
+* Partner or integrations section
+
+---
+
+### Deliverables
+
+Provide:
+
+1. Recommended project folder structure
+2. React component structure
+3. Tailwind styling implementation
+4. Responsive layouts
+5. Instructions to run locally in Replit
+6. Suggestions for improving user conversion
+7. Suggestions for SEO improvements
+
+---
+
+### Important
+
+Focus on  creating a polished marketing website that communicates the brand clearly .
+
+Avoid unnecessary complexity.
+
+The goal is to create a  professional public-facing website that can scale in the future if needed .
+
+I will now provide the PRD. 
+
+
